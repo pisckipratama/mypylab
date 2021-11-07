@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "name": "Piscki Pratama",
+  "username": "pisckitama",
+  "email": "piscki@email.com",
+  "address": {
+    "street": "Good Street",
+    "suite": "Good Suite",
+    "city": "Jakarta",
+    "geo": {
+      "latitude": "009992",
+      "langitude": "991803"
+    }
+  }
+}
